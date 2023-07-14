@@ -7,3 +7,6 @@ Using sklearn, we build a TfidfVectorizer on our dataset. Then, we initialize a 
 
 The fake news Dataset:
  news.csv -> dataset is been used. The first column identifies the news, the second and third are the title and text, and the fourth column has labels denoting whether the news is REAL or FAKE. The dataset takes up 29.2MB of space.
+
+Download the dataset given below:
+https://drive.google.com/drive/folders/1dh4ZcKq2-wVpkK27E1Yy-sQs9B5eUIVb
